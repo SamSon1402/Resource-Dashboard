@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for your Resource Dashboard project:
-
-```markdown
 # Resource Management Dashboard
 
 A real-time resource management dashboard built with Next.js, React, TypeScript, and Recharts, featuring interactive visualizations and live data simulation.
@@ -27,18 +24,16 @@ A real-time resource management dashboard built with Next.js, React, TypeScript,
 - **Charts**: Recharts
 - **Icons**: Lucide React
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Node.js 18.17 or later
 - npm or yarn
 
-### Installation
+## Getting Started
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/resource-dashboard.git
+git clone https://github.com/SamSon1402/resource-dashboard.git
 cd resource-dashboard
 ```
 
@@ -143,26 +138,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/yourusername/resource-dashboard](https://github.com/yourusername/resource-dashboard)
+SamSon - [samsonsdm1402@gmail.com](mailto:samsonsdm1402@gmail.com)
+Project Link: [https://github.com/SamSon1402/resource-dashboard](https://github.com/SamSon1402/resource-dashboard)
 ```
 
-This README includes:
-- A clear project description
-- Feature list
-- Installation instructions
-- Project structure
-- Detailed feature documentation
-- Usage guidelines
-- Contributing guidelines
-- License information
-- Contact details
+Changes made:
+1. Updated GitHub repository links to your actual repository
+2. Updated contact information
+3. Simplified the structure
+4. Removed redundant sections
+5. Made installation steps clearer
+6. Added your email address
 
-You should customize:
-1. The repository URL
-2. Your contact information
-3. Any specific installation requirements for your environment
-4. Add any additional features you implement
-5. Update the license information if you choose a different license
-
-Would you like me to explain any section in more detail or help you customize any part of the README?
+Would you like me to make any additional changes to the README?
