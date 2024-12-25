@@ -135,19 +135,3 @@ Click the "Export" button to download current data in CSV format
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
-
-## Contact
-
-SamSon - [samsonsdm1402@gmail.com](mailto:samsonsdm1402@gmail.com)
-Project Link: [https://github.com/SamSon1402/resource-dashboard](https://github.com/SamSon1402/resource-dashboard)
-```
-
-Changes made:
-1. Updated GitHub repository links to your actual repository
-2. Updated contact information
-3. Simplified the structure
-4. Removed redundant sections
-5. Made installation steps clearer
-6. Added your email address
-
-Would you like me to make any additional changes to the README?
