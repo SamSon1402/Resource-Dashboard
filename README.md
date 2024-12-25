@@ -2,6 +2,9 @@
 
 A real-time resource management dashboard built with Next.js, React, TypeScript, and Recharts, featuring interactive visualizations and live data simulation.
 
+![sanofi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/99809576-fe70-4251-a2d5-7cb7c89935ab)
+
+
 ## Features
 
 - Real-time data simulation and monitoring
